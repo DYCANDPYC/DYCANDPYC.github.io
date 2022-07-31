@@ -126,8 +126,6 @@ http://open.acgnxtracker.com/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.acgtracker.com:1096/announcehttp://tracker1.itzmx.com:8080/announce
-
 http://open.nyap2p.com:8080/announce
 
 http://open.tracker.ink:6969/announce
